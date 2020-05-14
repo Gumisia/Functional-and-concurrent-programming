@@ -1,0 +1,15 @@
+Functional Programming
+
+zamiast operacji -> obliczanie wyrażeń
+zamiast przypisań -> definiowanie stałych i funkcji
+zamiast pętli -> mamy rekurencję
+
+Brak:
+- null
+- zmienych
+- wyjątków
+- void
+- object
+- pętli
+- przeciążenia metod
+- efektów ubocznych
